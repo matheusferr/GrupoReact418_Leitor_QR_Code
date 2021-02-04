@@ -3,7 +3,7 @@
 ### Aplicativo de leitura e interação com QRCodes.
 Código feito por [Matheus Ferreira da Costa](https://github.com/matheusferr).
 
-Documentação feita por [Henrico Lazuroz](https://github.com/hicolazu) e Luisa Toni.
+[Documentação](https://cbt-ifsp-tcc-react.netlify.app/leitorqrcode) feita por [Henrico Lazuroz](https://github.com/hicolazu) e Luisa Toni.
 
 ## Tabela de conteúdo
 
